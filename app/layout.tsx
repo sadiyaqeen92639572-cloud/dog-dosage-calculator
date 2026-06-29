@@ -19,6 +19,7 @@ export const metadata: Metadata = {
   description: 'Calculate common dog medication dosages by weight with easy, fast, and clear calculators. Includes Benadryl, Gabapentin, Trazodone, Amoxicillin, and more.',
   metadataBase: new URL('https://sadiyaqeen92639572-cloud.github.io/dog-dosage-calculator'),
   alternates: { canonical: 'https://sadiyaqeen92639572-cloud.github.io/dog-dosage-calculator/' },
+  verification: { google: '76BtuPWapEs7YKz4n_-PAXK_31eyF1SGsayZYBetFMg' },
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
