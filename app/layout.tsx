@@ -17,8 +17,8 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: 'Dog Medication Dosage by Weight | Benadryl, Gabapentin, Trazodone & More',
   description: 'Calculate common dog medication dosages by weight with easy, fast, and clear calculators. Includes Benadryl, Gabapentin, Trazodone, Amoxicillin, and more.',
-  metadataBase: new URL('https://gesime-admin.github.io/dog-dosage-calculator'),
-  alternates: { canonical: 'https://gesime-admin.github.io/dog-dosage-calculator/' },
+  metadataBase: new URL('https://sadiyaqeen92639572-cloud.github.io/dog-dosage-calculator'),
+  alternates: { canonical: 'https://sadiyaqeen92639572-cloud.github.io/dog-dosage-calculator/' },
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
