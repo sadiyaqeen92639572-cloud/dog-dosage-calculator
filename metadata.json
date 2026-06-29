@@ -1,0 +1,6 @@
+{
+  "name": "Dog Dosage Calculators",
+  "description": "Calculate common dog and cat medication dosages by weight with easy, fast, and clear calculators. Includes Benadryl, Gabapentin, Trazodone, Amoxicillin, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
