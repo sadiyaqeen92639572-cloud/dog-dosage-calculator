@@ -37,6 +37,7 @@ Standard dosage charts online are static tables with no weight input — you hav
 ## Related
 
 - [Cat Medication Dosage Calculator](https://sadiyaqeen92639572-cloud.github.io/cat-dosage-calculator/) — same tool for feline medications
+- [Dog Food Monthly Cost Calculator](https://sadiyaqeen92639572-cloud.github.io/pet-food-cost-guide/) — calculate exact cost per day, month, and year based on your dog's weight, food brand, and feeding method. Benchmarks by brand tier (budget to prescription) so you know if you're overpaying.
 
 ## Disclaimer
 
