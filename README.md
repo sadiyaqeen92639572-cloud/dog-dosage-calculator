@@ -37,7 +37,7 @@ Standard dosage charts online are static tables with no weight input — you hav
 ## Related
 
 - [Cat Medication Dosage Calculator](https://sadiyaqeen92639572-cloud.github.io/cat-dosage-calculator/) — same tool for feline medications
-- [Dog Food Monthly Cost Calculator](https://sadiyaqeen92639572-cloud.github.io/pet-food-cost-guide/) — calculate exact cost per day, month, and year based on your dog's weight, food brand, and feeding method. Benchmarks by brand tier (budget to prescription) so you know if you're overpaying.
+- [Dog Food Monthly Cost Calculator — including prescription and recovery diet pricing](https://sadiyaqeen92639572-cloud.github.io/pet-food-cost-guide/) — dogs on long-term Carprofen, Meloxicam, or Prednisone are frequently switched to therapeutic diets (Hill's J/D for joint support, hydrolyzed protein for steroid-sensitive gut, bland recovery food post-infection). These can cost 3–5x more than standard kibble. This calculator shows the exact daily, monthly, and annual budget impact of that dietary shift — with price benchmarks by tier from budget to prescription so you can see where your current food sits.
 
 ## Disclaimer
 
